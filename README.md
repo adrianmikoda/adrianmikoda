@@ -7,6 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=adrianmikoda)
 
 <br>
+</div>
 
 <div align="center">
 
@@ -24,3 +25,10 @@
 
 ![github-user-contribution](https://github.com/user-attachments/assets/53b599a0-3f71-4c1e-b4c0-e476f07facd6)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>

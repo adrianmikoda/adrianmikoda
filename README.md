@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adrianmikoda/adrianmikoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrian
 
-Here are some ideas to get you started:
+### Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=adrianmikoda)
+
+<br>
+
+<div align="center">
+
+## 🚀 Languages that I know
+
+[![Languages](https://skillicons.dev/icons?i=py,java,c,haskell,bash,r)](https://skillicons.dev)
+
+## 🛠️ Technologies I have worked with
+
+[![Technologies](https://skillicons.dev/icons?i=docker,git,github,gradle,idea,linux,vscode,md)](https://skillicons.dev)
+
+## 📊 Statistics
+![adrianmikoda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmikoda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
+
+
+![github-user-contribution](https://github.com/user-attachments/assets/53b599a0-3f71-4c1e-b4c0-e476f07facd6)
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>

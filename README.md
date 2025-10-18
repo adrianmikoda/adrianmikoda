@@ -22,9 +22,6 @@
 ## 📊 Statistics
 ![adrianmikoda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmikoda&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
 
-
-![github-user-contribution](https://github.com/user-attachments/assets/53b599a0-3f71-4c1e-b4c0-e476f07facd6)
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake.svg" />

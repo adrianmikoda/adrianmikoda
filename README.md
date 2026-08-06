@@ -1,21 +1,20 @@
 <div align="center">
 
-
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Adrian
-
+# Adrian Mikoda
 ### Computer Science Student
+![](https://komarev.com/ghpvc/?username=adrianmikoda&style=flat-square&color=000000)
 
-![](https://komarev.com/ghpvc/?username=adrianmikoda&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianmikoda/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adrianmikoda/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianmikoda)
 
+|   |   |
+|---|---|
+| Languages | `Python`, `Java`, `Rust`, `C`, `C++`, `Erlang`, `Elixir`, `SQL` |
+| Technologies | `Django`, `Docker`, `PostgreSQL`, `MSSQL`, `Git`, `Linux` |
+|   |   |
 
-<br>
-</div>
-
-<div align="center">
-
-## 📊 Statistics
-
-![adrianmikoda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmikoda&theme=apprentice&show_icons=true&hide_border=true&bg_color=00000000&layout=compact&hide=jupyter%20notebook)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adrianmikoda&layout=compact&theme=apprentice&show_icons=true&hide_border=true&bg_color=00000000&hide=jupyter%20notebook)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake-dark.svg" />

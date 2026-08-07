@@ -12,7 +12,7 @@
 |   |   |
 |---|---|
 | Languages | `Python`, `Java`, `Rust`, `C`, `C++`, `Erlang`, `Elixir`, `SQL` |
-| Technologies | `Django`, `Docker`, `PostgreSQL`, `MSSQL`, `Git`, `Linux` |
+| Framweroks & Tools | `Django`, `Docker`, `PostgreSQL`, `MSSQL`, `Git`, `Linux` |
 |   |   |
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adrianmikoda&layout=compact&theme=apprentice&show_icons=true&hide_border=true&bg_color=00000000&hide=jupyter%20notebook)

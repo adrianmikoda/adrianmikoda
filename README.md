@@ -15,7 +15,7 @@
 | Framweroks & Tools | `Django`, `Docker`, `PostgreSQL`, `MSSQL`, `Git`, `Linux` |
 |   |   |
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adrianmikoda&layout=compact&theme=apprentice&show_icons=true&hide_border=true&bg_color=00000000&hide=jupyter%20notebook)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adrianmikoda&layout=compact&theme=apprentice&show_icons=true&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianmikoda/adrianmikoda/output/github-contribution-grid-snake-dark.svg" />
